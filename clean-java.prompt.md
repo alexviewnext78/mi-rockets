@@ -1,0 +1,3 @@
+Haz una limpieza del código Java siguiendo las mejores prácticas y convenciones establecidas en las instrucciones proporcionadas. Asegúrate de que el código sea claro, modular, y cumpla con los principios de diseño SOLID, incluyendo la validación de entradas y el manejo adecuado de excepciones. Además, verifica que se cierren correctamente los streams y que se utilicen rutas relativas para acceder a los recursos.
+
+## Esto va a usar el fichero .github/instructions/java.instructions.md como referencia para las mejores prácticas y convenciones de código en Java.
